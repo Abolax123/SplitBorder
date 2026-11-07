@@ -1,0 +1,9 @@
+node_modules
+dist
+!.env.example
+server/.env
+server/.env.*
+!server/.env.example
+.DS_Store
+*.log
+config.bat
